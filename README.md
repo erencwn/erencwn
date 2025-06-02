@@ -24,4 +24,3 @@
 
 ![snake gif](https://github.com/erencwn/erencwn/blob/output/github-contribution-grid-snake.gif)
 
-
