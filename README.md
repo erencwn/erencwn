@@ -1,6 +1,4 @@
-### Eren Can Türkoğlu
-
-Data Analyst at IHH Humanitarian Relief Foundation
+Veri Analistiyim. Makine Öğrenmesi ve Veri Bilimi alanlarında çalışıyor, geliştirdiğim modelleri yalnızca notebook ortamında bırakmayıp gerçek dünya problemlerine çözüm üreten projelere dönüştürüyorum. Ayrıca bu süreçleri destekleyen yazılım çözümleri de geliştiriyorum.
 
 📫 Bana ulaşmak istersen: [LinkedIn](https://linkedin.com/in/erencanturkoglu)
 
